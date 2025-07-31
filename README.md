@@ -5,96 +5,122 @@
 
 ---
 
-# Kgaleditsimo Holding Pty (Ltd)
+# Kgaleditsimo Holdings (Pty) Ltd
 
-**Kgaleditsimo Holding Pty (Ltd)** is a multi-disciplinary technology and services group dedicated to delivering innovative solutions in Education, Civil Engineering, and Environmental & Safety Management. Founded and led by Karabo Nkoana and Matome Nkoana, we leverage AI, automation, and domain expertise to empower clients and communities across South Africa and beyond.
-
----
-
-## 🌐 Vision & Mission
-
-**Vision:**
-To be the leading technology-driven holding company in Southern Africa, creating impactful solutions that bridge education, infrastructure, and environmental stewardship.
-
-**Mission:**
-- Innovate at the intersection of AI and applied engineering.
-- Elevate learning experiences through immersive EdTech platforms.
-- Deliver precision in construction and surveying services.
-- Ensure environmental compliance and safety excellence with data-driven systems.
+**Kgaleditsimo Holdings** is a multi-disciplinary technology and innovation group founded by Karabo Nkoana and Matome Nkoana. Our goal is to empower Africa through advanced AI-powered tools across Education, Infrastructure, and Environmental Stewardship. We combine automation, domain expertise, and community-driven development to solve critical challenges in underserved sectors.
 
 ---
 
-## 🏗️ Divisions Overview
+## 🌍 Vision & Mission
 
-| Division       | Focus Area                                                                    | Flagship Apps/Repos                                            |
-|----------------|-------------------------------------------------------------------------------|----------------------------------------------------------------|
-| **EdTech**     | AI-powered educational platforms for STEM                                     | ChemAI-Tutor, MathAI-Solver, ComputerScienceAI                 |
-| **Civils**     | Civil engineering, quantity surveying, cost planning, and site safety         | QualiAI, BOQ-Generator, SiteSafe-CAD                           |
-| **EnviroSafe** | Environmental management, safety compliance, risk assessment, incident tracking | SafeAI, EcoMonitor, ComplianceTracker                          |
+**Vision:**  
+To become Southern Africa’s leading AI-enabled holdings group delivering scalable solutions for education, infrastructure, and environmental safety.
 
-**Repository Structure:**
-```
+**Mission:**  
+- Build powerful, immersive EdTech experiences.  
+- Streamline civil infrastructure through automation and intelligence.  
+- Drive quality and safety compliance with AI-first environmental tools.  
+- Incubate cutting-edge AI innovations under one roof.
+
+---
+
+## 🏢 Divisional Overview
+
+| Division            | Description                                                          | Flagship Projects                                     |
+|---------------------|----------------------------------------------------------------------|--------------------------------------------------------|
+| **EdTech**          | AI-driven education tools for learners and institutions              | ChemAI, MathAI, ComputerScienceAI                      |
+| **DigiWorks**       | Custom-built digital platforms, e-commerce, and business apps        | LashBooker, ProductStore, BookingSuite                |
+| **Civils**          | Quantity surveying, project tracking, and automated BOQs             | BOQ-Generator, QualiAI, ProjectPlanner                 |
+| **EnviroSafe**      | Environmental compliance, risk management, and safety audits         | SafeAI, EcoMonitor, ComplianceTracker                 |
+| **Labs (R&D)**      | Internal AI research and experimental sandbox                        | AgenticAI, NLPReportGen, InfraPredictAI                |
+
+---
+
+## 🗂 Repository Layout
+
 KgaleditsimoHoldings/
-├─ ChemAI-Tutor/
-├─ MathAI-Solver/
-├─ ComputerScienceAI/
-├─ QualiAI/
-├─ BOQ-Generator/
-├─ SiteSafe-CAD/
-├─ SafeAI/
-├─ EcoMonitor/
-└─ ComplianceTracker/
-```
+
+├─ edtech-chemAI/
+
+├─ edtech-mathAI/
+
+├─ edtech-csAI/
+
+├─ digiworks-lashbooker/
+
+├─ digiworks-productstore/
+
+├─ civils-boq-generator/
+
+├─ civils-qualiAI/
+
+├─ envirosafe-safeAI/
+
+├─ envirosafe-ecomonitor/
+
+└─ labs-agenticAI/
+
 
 ---
 
-## 🚀 Key Features per Division
+## ✨ Division Highlights
 
-### EdTech (ChemAI-Tutor, MathAI-Solver, ComputerScienceAI)
-- **Adaptive Learning Engines:** Personalize content based on student performance.
-- **Interactive Visualizations:** Animated reaction mechanisms, parse tree simulators, and dynamic graphs.
-- **Smart Report Assistants:** Auto-generate lab and code reports with AI-driven insights.
-- **Quiz & Assessment Modules:** Configurable question banks with automatic grading.
+### 🎓 EdTech
+- Adaptive learning with student modeling
+- Reaction and logic visualizers
+- Auto-assessment and grading tools
+- AI-generated lab and code reports
 
-### Civils (QualiAI, BOQ-Generator, SiteSafe-CAD)
-- **Quantitative Surveying:** Automated BOQ creation from CAD drawings.
-- **Quality Control Plans:** Template-driven QCPs aligned with industry standards.
-- **Site Safety Inspections:** Mobile-friendly checklists, photo documentation, and audit logs.
-- **Cost & Change Management:** Real-time budget tracking and variation valuation tools.
+### 🧑‍💻 DigiWorks
+- Client-specific booking & e-commerce systems
+- Integrated payments (PayJustNow, Ozow, EFT)
+- Business admin dashboards and CRMs
 
-### EnviroSafe (SafeAI, EcoMonitor, ComplianceTracker)
-- **Risk Assessment Drafting:** SAMTRAC/COMSOC format drafts with AI recommendations.
-- **Incident Reporting:** Integrated workflow for logging, investigating, and resolving safety events.
-- **Environmental Monitoring:** Sensor data ingestion and dashboard analytics.
-- **Compliance Tracking:** Automated alerts for regulatory deadlines and standards.
+### 🏗 Civils
+- CAD-to-BOQ automation
+- QCP templates and audit tracking
+- Budget vs actual costing and change logging
 
----
+### 🌿 EnviroSafe
+- Risk Matrix & SAMTRAC AI generator
+- Safety meeting & incident tracking
+- Live environmental dashboards
+- Legal appointment & safety file generation
 
-## 📈 Roadmap & Growth Plans
-
-1. **Modular API Gateway** – Unify all division services under a single API layer.
-2. **Mobile Apps** – Native Android/iOS clients for field operations (Civils & EnviroSafe).
-3. **Marketplace Integration** – SaaS deployment on major cloud platforms (AWS, Azure).
-4. **AI Research Lab** – Expand R&D into advanced NLP for technical documentation and predictive maintenance.
-
----
-
-## 📋 Governance & Contribution
-
-We welcome collaboration and community contributions. Please review our guidelines:
-
-1. **Code of Conduct:** [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)
-2. **Contributing Guide:** [CONTRIBUTING.md](./CONTRIBUTING.md)
-3. **Issue & PR Workflow:** Fork → Branch → Commit → Pull Request → Review → Merge
+### 🔬 Labs (R&D)
+- Agentic AI systems for industry-specific workflows
+- NLP for regulatory and technical documentation
+- Predictive analytics for maintenance, safety, and education
 
 ---
 
-## 📞 Contact & Connect
+## 🚀 Roadmap 2025
 
-* **Headquarters:** Johannesburg, South Africa  
-* **Emails:** general@kgaleditsimo.co.za | katlego@kgaleditsimo.co.za
-* **Contact:** 078 307 4192
+- 🔗 Unified API Gateway across all apps
+- 📱 Launch of native Android/iOS mobile tools
+- ☁️ SaaS-ready architecture with AWS/Azure support
+- 🧪 Expansion of R&D in formal logic + predictive AI
+- 🎓 Public open courses and developer toolkits
 
 ---
 
-*© 2025 Kgaleditsimo Holding Pty (Ltd). All rights reserved.*
+## 🤝 Contribution & Collaboration
+
+We welcome engineers, researchers, and stakeholders to contribute or collaborate.
+
+1. **Code of Conduct** → [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md)  
+2. **Contributing Guide** → [CONTRIBUTING.md](./CONTRIBUTING.md)  
+3. **Workflow** → Fork → Branch → PR → Review → Merge  
+
+---
+
+## 📬 Contact Us
+
+- **Headquarters:** Johannesburg, South Africa  
+- **General Inquiries:** general@kgaleditsimo.co.za  
+- **Project & Collaboration:** katlego@kgaleditsimo.co.za  
+- **Phone:** +27 78 307 4192
+
+---
+
+© 2025 Kgaleditsimo Holdings (Pty) Ltd. All rights reserved.
